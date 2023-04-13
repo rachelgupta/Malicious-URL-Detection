@@ -8,3 +8,7 @@ In this project, we have trained machine learning models using Random Forest, Li
 We employ various machine learning algorithms, including decision trees, support vector machines, and deep neural networks, to evaluate their performance in detecting malicious URLs. We also utilize feature selection techniques to identify the most relevant features for effective detection. The developed system is rigorously evaluated on a real-world dataset of URLs to measure its accuracy, precision, recall, and F1-score, providing a comprehensive assessment of its effectiveness.
 
 The goal of this project is to develop a robust and accurate malicious URL detection system that can help organizations and individuals safeguard against cyber threats. By leveraging the power of machine learning and feature extraction techniques, we aim to create a reliable tool that can effectively identify malicious URLs and provide an additional layer of defence against cyber-attacks. The outcomes of this project have the potential to contribute to the field of cybersecurity and enhance the protection of online users' privacy and security.
+
+The end result is a website which takes URL as inputs and print outputs through multiple Models - 
+
+![7 8](https://user-images.githubusercontent.com/83275253/231858940-a454ce80-3737-4b10-9e39-30cca3115b8f.png)
